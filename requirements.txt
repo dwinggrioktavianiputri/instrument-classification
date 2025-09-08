@@ -1,1 +1,6 @@
 streamlit
+librosa
+joblib
+numpy
+tensorflow
+matplotlib
