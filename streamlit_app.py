@@ -154,7 +154,7 @@ st.markdown(
     """
     <hr>
     <div style="text-align:center;color:gray;">
-        Dibuat dengan ❤️ untuk Skripsi || Dwinggrit Oktaviani Putri
+        Dwinggrit Oktaviani Putri
     </div>
     """,
     unsafe_allow_html=True
