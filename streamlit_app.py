@@ -97,7 +97,7 @@ if uploaded_file is not None:
     # --- HASIL KLASIFIKASI (CARD STYLE) ---
     st.markdown(
         f"""
-        <div style="background-color:#2196F3;padding:20px;border-radius:10px;margin:20px 0;">
+        <div style="background-color:karimun blue;padding:20px;border-radius:10px;margin:20px 0;">
             <h2 style="color:white;text-align:center;">Instrumen Terdeteksi</h2>
             <h1 style="color:white;text-align:center;">{instrument_name}</h1>
         </div>
