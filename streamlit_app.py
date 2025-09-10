@@ -153,7 +153,7 @@ if uploaded_file is not None:
 st.markdown(
     """
     <hr>
-    <div style="text-align:center;color:pink;">
+    <div style="text-align:center;color:black;">
         Dwinggrit Oktaviani Putri
     </div>
     """,
