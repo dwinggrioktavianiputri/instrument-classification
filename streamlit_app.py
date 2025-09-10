@@ -124,7 +124,7 @@ if uploaded_file is not None:
         fig, ax = plt.subplots(figsize=(10, 5))
 
         # Garis penghubung antar chord
-        ax.plot(times, range(len(times)), marker="o", linestyle="-", linewidth=2, color="royalblue")
+        ax.plot(times, range(len(times)), marker="o", linestyle="-", linewidth=2, color="black")
 
         # Scatter dengan warna berbeda
         scatter = ax.scatter(times, range(len(times)), c=range(len(times)),
