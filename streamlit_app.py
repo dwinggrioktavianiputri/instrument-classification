@@ -73,7 +73,7 @@ st.set_page_config(page_title="Klasifikasi Instrumen & Chord", layout="centered"
 # --- HEADER ---
 st.markdown(
     """
-    <div style="background-color:#4CAF50;padding:15px;border-radius:10px">
+    <div style="background-color:karimun blue;padding:15px;border-radius:10px">
         <h1 style="color:white;text-align:center;">🎺 Klasifikasi Instrumen Musik Tiup + Deteksi Chord 🎼</h1>
     </div>
     """,
